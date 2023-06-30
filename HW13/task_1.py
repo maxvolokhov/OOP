@@ -10,6 +10,7 @@ I want to see:
 .............
 It should work with any file with such a structure"""
 
+
 class FromTxtToHtmlAdapter:
     def __init__(self, file_path):
         self.__file_path = file_path
