@@ -1,0 +1,4 @@
+name,surname,age,salary
+Bohdan,Dovbysh,28,100
+Peter,Griffin,45,200
+Liza,Simpson,10,300
